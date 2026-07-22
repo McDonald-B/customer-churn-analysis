@@ -239,17 +239,18 @@ Customer-Churn-Analysis/
 ├── README.md
 │
 ├── Python/
-│   └── Customer_Churn_Analysis.ipynb
+│   └── customer_churn_analysis.ipynb
 │
 ├── SQL/
-│   └── churn_analysis_queries.sql
+│   └── churn_analysis.sql
 │
 ├── Tableau/
-│   └── Customer_Churn_Dashboard.twbx
+│   └── Customer_Churn_Dashboar.twb
 │
 └── Data/
-    ├── cleaned_customer_churn.csv
-    └── risk_segments.csv
+    ├── customer_churn_clean.csv
+    └── churn_feature_importance.csv
+    └── telco_customer_churn.csv
 ```
 
 ---
