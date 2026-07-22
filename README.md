@@ -245,7 +245,7 @@ Customer-Churn-Analysis/
 │   └── churn_analysis.sql
 │
 ├── Tableau/
-│   └── Customer_Churn_Dashboar.twb
+│   └── Customer_Churn_Dashboar.twbx
 │
 └── Data/
     ├── customer_churn_clean.csv
