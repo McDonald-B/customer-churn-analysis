@@ -1,6 +1,6 @@
 # Customer Churn Analysis & Retention Dashboard
 
-![Customer Churn Dashboard](customer_churn_dashboard.png)
+![Customer Churn Dashboard](Images/customer_churn_dashboard.png)
 
 ## Project Overview
 
